@@ -1,3 +1,4 @@
+//пщкнтф
 // util.h -- May 9, 2009
 //    by geohot
 // part of "The Embedded Disassembler"
